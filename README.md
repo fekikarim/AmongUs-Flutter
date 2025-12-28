@@ -230,7 +230,7 @@ Contributions are welcome.
 
 ## License
 
-This project is provided for educational purposes. If you intend to publish or distribute it, add a proper license file.
+This project is provided for educational purposes.
 
 ---
 
